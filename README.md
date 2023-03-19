@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Martin Nicolas Russo</h1>
 <h3 align="center">A passionate Full-Stack Developer (Fron-tend oriented) from Argentina. I have graduated from soyHenry's bootcamp as Full Stack Web Developer. Although, I'm allways looking foward to learn more and grow as Developer.</h3>
 
-- 🔭 I’m currently working on **personal Portfolio**
+- 🔭 I’m currently working on **Devlabs**
 
-- 🌱 I’m currently learning **Typescript, nodeJS and ReactNative**
+- 🌱 I’m currently learning **GraphQL and NextJS**
 
 - 📫 How to reach me **russomartin2@gmail.com**
 
